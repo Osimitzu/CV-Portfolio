@@ -1,132 +1,123 @@
 {
   "basics": {
     "name": "Osiris Contreras",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Desarrollador Web Full Stack",
     "image": "/io.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "angel@osiriscontreras.com",
+    "phone": "+52 8115083941",
+    "url": "https://osiriscontreras.com",
+    "summary": "Soy un desarrollador web full stack con un enfoque particular en el frontend, y tengo más de un año de experiencia trabajando como freelancer. Actualmente, estoy en la búsqueda de una oportunidad laboral en una empresa de desarrollo web donde pueda continuar creciendo profesionalmente y contribuir con mi experiencia y habilidades al éxito de un equipo dinámico.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "64210",
+      "city": "Monterrey, Nuevo León",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "osimitzu",
+        "url": "https://www.linkedin.com/in/osimitzu/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Osimitzu",
+        "url": "https://github.com/Osimitzu"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Freelance",
+      "position": "Desarrollador Web Full Stack",
+      "url": "https://osiriscontreras.com",
+      "startDate": "2023-02-02",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": ["Started the company"]
+      "summary": "He trabajado en diversos proyectos para clientes, incluyendo páginas web sencillas, landings, invitaciones digitales, clones de Linktree, galerías y portafolios. Utilizo principalmente tecnologías frontend como Astro, React y Tailwind CSS. También he desarrollado proyectos más complejos, como tiendas en línea y sitios de fotografía, con herramientas como Shopify, WordPress y WooCommerce.",
+      "highlights": [""]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": ["Started the company"]
+      "name": "Global Telesourcing",
+      "position": "Representante de Ventas Bilingüe",
+      "url": "https://globaltelesourcing.com",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-01",
+      "summary": "Gestioné ventas para el servicio de radio satelital de SiriusXM en el mercado estadounidense.",
+      "highlights": [""]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
+      "name": "Centro de Contacto Banorte",
+      "position": "Ejecutivo de Atención a Clientes",
+      "url": "https://www.banorte.com",
+      "startDate": "2020-02-01",
+      "endDate": "2021-05-01",
+      "summary": "Trabajé en atención al cliente para tarjetas de débito y crédito, gestionando problemas de facturación, cargos no reconocidos, robo o pérdida de tarjetas, consultas sobre la aplicación móvil y más.",
+      "highlights": [""]
+    },
     {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "name": "Teleperformance",
+      "position": "Ejecutivo de Atención a Clientes Semibilingüe",
+      "url": "https://www.teleperformance.com/en-us/locations/mexico-site/mexico/",
+      "startDate": "2018-02-01",
+      "endDate": "2019-05-01",
+      "summary": "Atendí llamadas en inglés y español para el servicio de Comcast en áreas como retención, atención al cliente y soporte técnico, abordando problemas relacionados con cable, teléfono, internet y cámaras de seguridad.",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
+      "institution": "IEU Universidad",
+      "url": "https://ieu.edu.mx",
+      "area": "Licenciatura en Desarrollo de Software",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
-    }
-  ],
-  "awards": [
+      "startDate": "2021-09-01",
+      "endDate": null
+    },
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
+      "institution": "Academlo",
+      "url": "https://www.academlo.com",
+      "area": "Curso de Desarrollo Web Full-Stack y Ciencias de la Computación",
+      "studyType": "Bootcamp",
+      "startDate": "2022-10-01",
+      "endDate": "2023-06-01"
+    },
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
+      "institution": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/RFCZUAAA7XXP",
+      "area": "Certificación en Soporte de Tecnologías de la Información de Google",
+      "studyType": "Certification",
+      "startDate": "2019-11-01",
+      "endDate": "2020-11-01"
+    },
     {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "institution": "Facultad de Filosofía y Letras UANL",
+      "url": "https://www.uanl.mx",
+      "area": "Ingles",
+      "studyType": "Course",
+      "startDate": "2016-06-01",
+      "endDate": "2019-06-01"
     }
   ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Mid-Level",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Mid-Level",
       "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Mid-Level",
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
+      "name": "Tailwind CSS",
+      "level": "Mid-Level",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -135,23 +126,28 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "name": "React",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
+      "name": "Astro",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Mid-Level",
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
+      "name": "Express",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Mid-Level",
       "keywords": [
         "Bases de Datos",
         "SQL",
@@ -161,34 +157,28 @@
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Mid-Level",
       "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "name": "Sequelize",
+      "level": "Mid-Level",
+      "keywords": ["Backend", "ORM"]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "name": "Swagger",
+      "level": "Mid-Level",
+      "keywords": ["Backend", "Documentation"]
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "name": "WordPress",
+      "level": "Mid-Level",
+      "keywords": ["Fullstack", "Desarrollo Web"]
+    },
+    {
+      "name": "Shopify",
+      "level": "Mid-Level",
+      "keywords": ["Fullstack", "Desarrollo Web"]
     }
   ],
   "languages": [
@@ -201,65 +191,53 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
+      "name": "HILLS MTY",
       "isActive": false,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "description": "Comercio electrónico de ropa.",
+      "highlights": ["En Desarrollo", "E-commerce", "WordPress"],
+      "url": "https://hillsmty.shop"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "name": "Isabella G Fotografia",
+      "isActive": false,
+      "description": "Página web para estudio profesional de fotografía desarrollada en WordPress, actualmente en proceso de migración a Astro.",
+      "highlights": ["En Desarrollo", "WordPress", "Full Stack"],
+      "url": ""
+    },
+    {
+      "name": "Portafolio",
+      "isActive": true,
+      "description": "Portafolio web personal creado con React.",
+      "highlights": ["Frontend", "React", "Tailwind CSS"],
+      "url": "https://osiriscontreras.com"
+    },
+    {
+      "name": "E-commerce",
+      "isActive": true,
+      "description": "API desarrollada con Express y PostgreSQL como base de datos, usando Sequelize CLI como ORM.",
+      "highlights": ["Backend", "API", "Swagger Documentation"],
+      "url": "https://e-commerce-backend-sxpd.onrender.com/docs/"
+    },
+    {
+      "name": "Invitación Digital",
+      "isActive": true,
+      "description": "Plantilla de invitación digital creada para un cliente real.",
+      "highlights": ["Frontend", "HTML", "CSS", "JavaScript"],
+      "url": "https://xv-invitation.netlify.app"
+    },
+    {
+      "name": "Dev Notes",
+      "isActive": true,
+      "description": "Apuntes personales sobre desarrollo web y todo lo que he aprendido al respecto.",
+      "highlights": [
+        "Frontend",
+        "Docusaurus",
+        "Documentation",
+        "En Desarrollo"
+      ],
+      "url": "https://web-development-notes.netlify.app"
     }
   ]
 }
