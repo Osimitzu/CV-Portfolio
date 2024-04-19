@@ -104,18 +104,19 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 2.1rem;
+    font-weight: 400;
   }
 
   h2 {
     color: #444;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1.1rem;
     text-wrap: balance;
   }
 
   img {
-    aspect-ratio: 1/1;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     width: 128px;
     border-radius: 16px;
@@ -154,5 +155,32 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
   footer a:hover {
     background: #eee;
     border: 1px solid #ddd;
+  }
+
+  @media (width <= 700px) {
+    .container {
+      flex-direction: column-reverse;
+    }
+
+    .info {
+      justify-content: center;
+      align-items: center;
+      padding-right: 0;
+      text-align: center;
+    }
+
+    figure {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    h2 {
+      text-wrap: balance;
+    }
+
+    figure {
+      margin: 0 auto;
+    }
   }
 </style>

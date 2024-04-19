@@ -22,7 +22,13 @@ const { title } = Astro.props;
 </html>
 <style is:global>
   html {
-    font-family: Menlo, Monaco, Lucida, monospace;
+    font-family:
+      Menlo,
+      Monaco,
+      Lucida Console,
+      "Courier New",
+      Courier,
+      monospace;
     background: #fff;
     letter-spacing: -0.025rem;
   }
@@ -76,19 +82,25 @@ const { title } = Astro.props;
     text-wrap: pretty;
   }
 
-  @media print {
-    .no-print {
-      display: none !important;
-    }
-  }
-
   .print {
     display: none !important;
   }
 
   @media print {
+    .no-print {
+      display: none !important;
+    }
+
     .print {
       display: block !important;
+    }
+
+    astro-dev-toolbar {
+      display: none !important;
+    }
+
+    article {
+      break-inside: avoid;
     }
   }
 </style>
